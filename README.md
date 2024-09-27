@@ -1,2 +1,2 @@
-# Linguagem-de-Programa-o
+# Linguagem_de-Programacao
 Atividades em sala Linguagem de Programação
